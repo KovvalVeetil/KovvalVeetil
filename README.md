@@ -4,7 +4,7 @@ I’m Aswathi Kovval Veetil, a software engineer who thrives on turning ideas in
 
 I love diving into new tech, exploring different languages and tools, and always seeking ways to enhance performance and reliability. Feel free to check out my projects and connect—I’m always up for a chat about tech, coding, or anything in between!
 
-### Technologies I love include but are not limited to:
+### Technologies I love include, but are not limited to:
 - Programming Languages: Ruby, JavaScript, Python, C, C++, TypeScript
 - Web Development/frameworks: Ruby on Rails, Node.js, React, HTML5, CSS
 - Databases: MongoDB, SQL, DynamoDB, Postgres, MySQL, NoSQL
