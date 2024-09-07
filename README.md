@@ -10,7 +10,6 @@ I love diving into new tech, exploring different languages and tools, and always
 - Databases: MongoDB, SQL, DynamoDB, Postgres, MySQL, NoSQL
 - Cloud Services: AWS, Azure, Google Cloud, Firebase
 - Tools and Technologies: Docker, Postman, PuTTY, Visual Studio, LabVIEW, Unity
-- Development Tools: EC2, Verilog, Matlab, Qt Octave, LaTeX, SAGE, Cisco Packet Tracer, OPNET, Wireshark, Riverbed, Deterlab, Linux, Android Studio
 
 Happy coding! 🚀
 <!--
